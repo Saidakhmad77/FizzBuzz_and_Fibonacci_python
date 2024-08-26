@@ -14,7 +14,7 @@ for num in range(1, 101):
      
      
      # This is Fibonacci sequence in an easy way
-n = 20
+""" n = 20
 num1, num2 = 0, 1
 count = 0
 
@@ -23,6 +23,6 @@ while count < n:
     nth = num1 + num2
     num1 = num2
     num2 = nth
-    count += 1
+    count += 1 """
     
     
